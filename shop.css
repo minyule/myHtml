@@ -1,0 +1,9 @@
+/* 아래에 코드를 작성하시오. */
+.img {  
+  background-image: url(images/main.png);
+  height: 500px;
+  background-position: center;
+  background-size: cover;
+} 
+
+/* <div class="img"></div> */
